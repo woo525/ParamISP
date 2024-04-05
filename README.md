@@ -1,6 +1,6 @@
 ## ParamISP: Learned Forward and Inverse ISPs using Camera Parameters<br><sub>Official PyTorch Implementation of the CVPR 2024 Paper</sub>
 
-Woohyeok Kim\*, Geonu Kim\*, Junyong Lee, Seungyong Lee, Seung-Hwan Baek, Sunghyun Cho<br>
+*Woohyeok Kim\*, Geonu Kim\*, Junyong Lee, Seungyong Lee, Seung-Hwan Baek, Sunghyun Cho<br>*
 
 [\[Paper\]]()
 [\[Supple\]]()
