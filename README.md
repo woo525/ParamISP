@@ -5,6 +5,12 @@ Woohyeok Kim\*, Geonu Kim\*, Junyong Lee, Seungyong Lee, Seung-Hwan Baek, Sunghy
 [\[Paper\]]()
 [\[Supple\]]()
 
+![overview](https://github.com/woo525/ParamISP/assets/32587029/b4bb291f-14e4-42dd-8642-518752843cc3)
+
+### Abstract
+
+RAW images are rarely shared mainly due to its excessive data size compared to their sRGB counterparts obtained by camera ISPs. Learning the forward and inverse processes of camera ISPs has been recently demonstrated, enabling physically-meaningful RAW-level image processing on input sRGB images. However, existing learning-based ISP methods fail to handle the large variations in the ISP processes with respect to camera parameters such as ISO and exposure time, and have limitations when used for various applications. In this paper, we propose ParamISP, a learning-based method for forward and inverse conversion between sRGB and RAW images, that adopts a novel neural-network module to utilize camera parameters, which is dubbed as ParamNet. Given the camera parameters provided in the EXIF data, ParamNet converts them into a feature vector to control the ISP networks. Extensive experiments demonstrate that ParamISP achieve superior RAW and sRGB reconstruction results compared to previous methods and it can be effectively used for a variety of applications such as deblurring dataset synthesis, raw deblurring, HDR reconstruction, and camera-to-camera transfer.
+
 ### Environment Setting
 * Python 3.10
 * PyTorch 1.12.1
