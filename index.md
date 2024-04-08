@@ -1,16 +1,14 @@
 ---
 layout: project_page
 permalink: /
-
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: ParamISP:Learned Forward and Inverse ISPs using Camera Parameters
 authors:
-    A. M. Turing
+    Woohyeok Kim^1*^, Geonu Kim^1*^, Junyong Lee^2^, Seungyong Lee^1^, Seung-Hwan Baek^1^, Sunghyun Cho^1^
 affiliations:
-    King's College, Cambridge
+    POSTECH^1^, Samsung AI Center Toronto^2^
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
+supple: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
 ---
 
 <!-- Using HTML to center the abstract -->
