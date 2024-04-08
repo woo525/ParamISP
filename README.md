@@ -42,3 +42,13 @@ As described in the paper, ParamISP is trained in two stages for both the invers
 ### Inference
  
         CUDA_VISIBLE_DEVICES=0 python models/paramisp.py -o demo --inverse predict --ckpt weights/fine_tuning/inverse/D7000.ckpt --camera D7000
+
+### Citation
+```
+@inproceedings{kim2024paramisp,
+  title     = {ParamISP: Learned Forward and Inverse ISPs using Camera Parameters},
+  author    = {Woohyeok Kim, Geonu Kim, Junyong Lee, Seungyong Lee, Seung-Hwan Baek, Sunghyun Cho},
+  booktitle = {CVPR},
+  year      = {2024}
+}
+```
