@@ -57,14 +57,10 @@ Extensive experiments demonstrate that ParamISP achieve superior RAW and sRGB re
 ![deblurdataset](/static/image/deblurdataset-1.png)
 
 #### *3. HDR Reconstruction*
-<p align="center">
-  <img src="/static/image/hdr-1.png" width="50%">
-</p>
+               ![hdr](/static/image/hdr-1.png){: width="50%"}
 
 #### *4. Camera-to-Camera Transfer*
-<p align="center">
-  <img src="/static/image/cam2cam-1.png">
-</p>
+               ![cam2cam](/static/image/cam2cam-1.png)
 
 ## Citation
 ```
