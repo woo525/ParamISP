@@ -7,7 +7,7 @@ authors:
     <br><A href="https://cg.postech.ac.kr/leesy/">Seungyong Lee</A><sup>1</sup> &emsp; <A href="https://www.shbaek.com/">Seung-Hwan Baek</A><sup>1</sup> &emsp; <A href="https://www.scho.pe.kr/">Sunghyun Cho</A><sup>1</sup> 
 affiliations:
     POSTECH<sup>1</sup> &emsp; Samsung AI Center Toronto<sup>2</sup>
-    <br><br><p style="font-style:italic;">IEEE Computer Vision and Pattern Recognition (CVPR) 2024</p>
+    <br><br><p style="font-style:italic;">The IEEE/CVF Computer Vision and Pattern Recognition (CVPR) 2024</p>
 paper: https://arxiv.org/abs/2312.13313
 code: https://github.com/woo525/ParamISP
 ---
