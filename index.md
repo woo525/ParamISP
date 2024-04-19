@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 title: ParamISP&#58; Learned Forward and Inverse ISPs using Camera Parameters
 authors:
-    Woohyeok Kim<sup>1&nbsp;*</sup> &emsp; Geonu Kim<sup>1&nbsp;*</sup> &emsp; <A href="https://junyonglee.me/">Junyong Lee</A><sup>2</sup> 
+    <A href="https://woo525.github.io/">Woohyeok Kim</A><sup>1&nbsp;*</sup> &emsp; <A href="">Geonu Kim</A><sup>1&nbsp;*</sup> &emsp; <A href="https://junyonglee.me/">Junyong Lee</A><sup>2</sup> 
     <br><A href="https://cg.postech.ac.kr/leesy/">Seungyong Lee</A><sup>1</sup> &emsp; <A href="https://www.shbaek.com/">Seung-Hwan Baek</A><sup>1</sup> &emsp; <A href="https://www.scho.pe.kr/">Sunghyun Cho</A><sup>1</sup> 
 affiliations:
     POSTECH<sup>1</sup> &emsp; Samsung AI Center Toronto<sup>2</sup>
