@@ -15,6 +15,7 @@ code: https://github.com/woo525/ParamISP
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
+        <img src="/static/image/thumb.png">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
 RAW images are rarely shared mainly due to its excessive data size compared to their sRGB counterparts obtained by camera ISPs. 
