@@ -15,7 +15,6 @@ code: https://github.com/woo525/ParamISP
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
-        <img src="/static/image/thumb.png">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
 RAW images are rarely shared mainly due to its excessive data size compared to their sRGB counterparts obtained by camera ISPs. 
@@ -29,6 +28,8 @@ Extensive experiments demonstrate that ParamISP achieve superior RAW and sRGB re
 </div>
 
 ---
+
+![thumb](/static/image/thumb.png)
 
 ## Method
 ![overview](/static/image/overview-1.png) <span style="color:gray"> *Overview of the proposed ParamISP framework. The full pipeline is constructed by combining learnable networks (ParamNet, LocalNet, GlobalNet) with invertible canonical camera operations (CanoNet). CanoNet consists of differentiable operations without learnable weights, where WB and CST denote white balance and color space transform, respectively.* </span>
