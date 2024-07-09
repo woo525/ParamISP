@@ -46,12 +46,12 @@ As described in the paper, ParamISP is trained in two stages for both the invers
 
 ### Citation
 ```
-@InProceedings{Kim_2024_CVPR,
-    author    = {Kim, Woohyeok and Kim, Geonu and Lee, Junyong and Lee, Seungyong and Baek, Seung-Hwan and Cho, Sunghyun},
-    title     = {ParamISP: Learned Forward and Inverse ISPs using Camera Parameters},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2024},
-    pages     = {26067-26076}
+@inproceedings{kim2024paramisp,
+  title={ParamISP: Learned Forward and Inverse ISPs using Camera Parameters},
+  author={Kim, Woohyeok and Kim, Geonu and Lee, Junyong and Lee, Seungyong and Baek, Seung-Hwan and Cho, Sunghyun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26067--26076},
+  year={2024}
+}
 }
 ```
