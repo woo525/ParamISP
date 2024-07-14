@@ -53,5 +53,4 @@ As described in the paper, ParamISP is trained in two stages for both the invers
   pages={26067--26076},
   year={2024}
 }
-}
 ```
