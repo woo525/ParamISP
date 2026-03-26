@@ -21,7 +21,7 @@ RAW images are rarely shared mainly due to its excessive data size compared to t
 ### Training
 As described in the paper, ParamISP is trained in two stages for both the inverse and forward directions: pre-training and fine-tuning. Additionally, before applying it to applications, further joint fine-tuning can be conducted. We provide a small dataset example and the official weights reported in the paper to enable the execution of the code. You can set the dataset path through the **.env** file.
 
-[\[Dataset example\]](https://drive.google.com/drive/folders/1ZCi3ZXLeM7Ary6eWlVaVTTDm-kWcXWjU?usp=sharing) [\[Official weights\]](https://drive.google.com/drive/folders/1ZCi3ZXLeM7Ary6eWlVaVTTDm-kWcXWjU?usp=sharing)
+[\[Dataset example\]](https://drive.google.com/drive/folders/1L7ZSikYt5eaCOEINpjjwmPX0CoZLbBG6) [\[Official weights\]](https://drive.google.com/drive/folders/1L7ZSikYt5eaCOEINpjjwmPX0CoZLbBG6)
 #### 1. Pre-training
 
         CUDA_VISIBLE_DEVICES=0 python models/paramisp.py -o demo --inverse train
